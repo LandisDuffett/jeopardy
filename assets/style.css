@@ -108,6 +108,10 @@ main {
   .bg{
 max-height: 80%;
   }
+
+  body {
+    min-height: 0vh;
+  }
 }
 
 
