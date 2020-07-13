@@ -104,8 +104,10 @@ main {
   text-align: center;
 }
 
-@media and (max-width: 800) {
-  max-height: 80%;
+@media only screen and (max-width: 800) {
+  .bg{
+max-height: 80%;
+  }
 }
 
 
