@@ -104,5 +104,8 @@ main {
   text-align: center;
 }
 
+@media and (max-width: 800) {
+  max-height: 80%;
+}
 
 
